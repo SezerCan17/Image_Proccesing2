@@ -1,2 +1,2 @@
 # Image_Proccesing2
-Given an image with filled rectangles as generated in the previous homework, your task is to develop a solution that automatically detects the positions of these rectangles and draws blue boxes around them to indicate their coordinates.
+This MATLAB code loads an image from 'rectengular_image.PNG' file and detects the edges of objects using the Canny edge detection algorithm. The detected edges are drawn as red lines, and the processed images are displayed on the MATLAB screen.
